@@ -5,7 +5,7 @@
   
 [intro.tar](https://github.com/nuitrcs/intro_quest_workshop/raw/master/intro.tar) contains a sample submission script and a short python program used in the workshop.  We will use Cyberduck to move intro.tar from your local computer onto Quest. 
   
-If you haven't already done so, PC users should download either PuTTY or FastX [Software](https://kb.northwestern.edu/quest-login) to log into Quest.  Mac users can just use the Terminal app that comes installed on their local machines.
+If you haven't already done so, PC users should download either [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)(preferred) or [FastX](https://www.starnet.com/fastx/current-client) for logging into Quest.  Information about when to use which is available on the [knowledge base](https://kb.northwestern.edu/quest-login).  Mac users can just use the Terminal app that comes installed on their local machines.
 
   
 ## References
