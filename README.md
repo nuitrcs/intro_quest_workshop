@@ -16,9 +16,9 @@ Types of [allocations](http://www.it.northwestern.edu/research/user-services/que
 
 [Training and Workshops](http://www.it.northwestern.edu/research/campus-events/index.html) available through Research Computing
 
-Learn about [DataCamp](http://www.it.northwestern.edu/research/campus-events/data-camp.html), providing on-line classes in R, Python and Data Science.  
+Learn about [DataCamp](http://www.it.northwestern.edu/research/campus-events/data-camp.html), providing on-line classes in R, Python and Data Science
 
-Information on [Research Computing](http://www.it.northwestern.edu/research/)and how to request a consultation (it's free!)  
+Information on [Research Computing](http://www.it.northwestern.edu/research/) and how we can help with your computational research needs  
   
   
 
