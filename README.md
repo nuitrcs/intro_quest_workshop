@@ -5,5 +5,5 @@ Click to download [intro.tar](https://github.com/nuitrcs/intro_quest_workshop/ra
   
 ## References
 Northwestern's [Knowledge Base](https://kb.northwestern.edu/)  
-Search for topics: "Quest quick start", "Quest jobs", "Quest file transfer"  
+Search for topics: [Quest begin](https://kb.northwestern.edu/search.php?q=quest+begin&cat=0&aud=0), [Quest jobs](https://kb.northwestern.edu/search.php?q=quest+jobs&cat=0&aud=0), [Quest file transfer](https://kb.northwestern.edu/search.php?q=Quest+file+transfer&cat=0&aud=0)  
 
