@@ -21,6 +21,8 @@ Types of [allocations](http://www.it.northwestern.edu/research/user-services/que
 
 Quest has high-memory [Analytics Nodes](http://www.it.northwestern.edu/research/user-services/quest/analytic-nodes.html) for running R and SAS, available to anyone with an account on Quest  
 
+[Research Data Storage Service](http://www.it.northwestern.edu/research/user-services/storage/research-data.html) for backing up large research projects
+
 [Training and Workshops](http://www.it.northwestern.edu/research/campus-events/index.html) available through Research Computing
 
 Learn about [DataCamp](http://www.it.northwestern.edu/research/campus-events/data-camp.html), providing on-line classes in R, Python and Data Science
