@@ -19,7 +19,7 @@ Suggestions for topics in the Knowledge Base: [Quest begin](https://kb.northwest
   
 Types of [allocations](http://www.it.northwestern.edu/research/user-services/quest/allocation-guidelines.html) and where to [apply](http://www.it.northwestern.edu/secure/forms/research/allocation-request.html) for them  
 
-Quest has high-memory [Analytics Nodes](http://www.it.northwestern.edu/research/user-services/quest/analytic-nodes.html) for running R and SAS.  This resource is available to anyone with an account on Quest  
+Quest has high-memory [Analytics Nodes](http://www.it.northwestern.edu/research/user-services/quest/analytic-nodes.html) for running R and SAS, available to anyone with an account on Quest  
 
 [Training and Workshops](http://www.it.northwestern.edu/research/campus-events/index.html) available through Research Computing
 
