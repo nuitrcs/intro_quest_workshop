@@ -12,8 +12,6 @@ If you haven't already done so, PC users should download either PuTTY or FastX [
 Northwestern's [Knowledge Base](https://kb.northwestern.edu/) has all of the how-to guides for getting started on Quest  
 Suggestions for topics in the Knowledge Base: [Quest begin](https://kb.northwestern.edu/search.php?q=quest+begin&cat=0&aud=0), [Quest jobs](https://kb.northwestern.edu/search.php?q=quest+jobs&cat=0&aud=0), [Quest file transfer](https://kb.northwestern.edu/search.php?q=Quest+file+transfer&cat=0&aud=0), [Quest software](https://kb.northwestern.edu/page.php?id=70714)  
   
-More [details about Quest](http://www.it.northwestern.edu/research/user-services/quest/index.html)  
-  
 Types of [allocations](http://www.it.northwestern.edu/research/user-services/quest/allocation-guidelines.html) and where to [apply](http://www.it.northwestern.edu/secure/forms/research/allocation-request.html) for them  
 
 [Training and Workshops](http://www.it.northwestern.edu/research/campus-events/index.html) available through Research Computing
