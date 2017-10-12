@@ -10,7 +10,7 @@ Download one of the [Software](https://kb.northwestern.edu/quest-login) options 
   
 ## References
 Northwestern's [Knowledge Base](https://kb.northwestern.edu/) has all of the how-to guides for getting started on Quest  
-Suggestions for initial topics in the Knowledge Base: [Quest begin](https://kb.northwestern.edu/search.php?q=quest+begin&cat=0&aud=0), [Quest jobs](https://kb.northwestern.edu/search.php?q=quest+jobs&cat=0&aud=0), [Quest file transfer](https://kb.northwestern.edu/search.php?q=Quest+file+transfer&cat=0&aud=0)  
+Suggestions for initial topics in the Knowledge Base: [Quest begin](https://kb.northwestern.edu/search.php?q=quest+begin&cat=0&aud=0), [Quest jobs](https://kb.northwestern.edu/search.php?q=quest+jobs&cat=0&aud=0), [Quest file transfer](https://kb.northwestern.edu/search.php?q=Quest+file+transfer&cat=0&aud=0), [Quest software](https://kb.northwestern.edu/page.php?id=70714)  
   
 More [Information about Quest](http://www.it.northwestern.edu/research/user-services/quest/index.html)  
   
