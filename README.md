@@ -12,7 +12,10 @@
   
 ## References
 Northwestern's [Knowledge Base](https://kb.northwestern.edu/) has all of the how-to guides for getting started on Quest  
-Suggestions for topics in the Knowledge Base: [Quest begin](https://kb.northwestern.edu/search.php?q=quest+begin&cat=0&aud=0), [Quest jobs](https://kb.northwestern.edu/search.php?q=quest+jobs&cat=0&aud=0), [Quest file transfer](https://kb.northwestern.edu/search.php?q=Quest+file+transfer&cat=0&aud=0), [Quest software](https://kb.northwestern.edu/page.php?id=70714), [Example jobs on Quest](https://kb.northwestern.edu/page.php?id=70719)  
+Suggestions for topics in the Knowledge Base: [Quest begin](https://kb.northwestern.edu/search.php?q=quest+begin&cat=0&aud=0), [Quest jobs](https://kb.northwestern.edu/search.php?q=quest+jobs&cat=0&aud=0), [Quest file transfer](https://kb.northwestern.edu/search.php?q=Quest+file+transfer&cat=0&aud=0), [Quest software](https://kb.northwestern.edu/page.php?id=70714)
+
+[Submitting a job](https://kb.northwestern.edu/page.php?id=69247) on Quest  
+[Example jobs](https://kb.northwestern.edu/page.php?id=70719) on Quest   
   
 Types of [allocations](http://www.it.northwestern.edu/research/user-services/quest/allocation-guidelines.html) and where to [apply](http://www.it.northwestern.edu/secure/forms/research/allocation-request.html) for them  
 
