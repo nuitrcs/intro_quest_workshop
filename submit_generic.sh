@@ -10,4 +10,5 @@
 cd $PBS_O_WORKDIR 		## the directory from which the job was submitted
 module load python  		## Load necessary modules (software pr libraries)
 
-python helloworld.py  		## Run the program
+#bash <bash_script>             ## Run the program
+#python <python_script>  	## Run the program
