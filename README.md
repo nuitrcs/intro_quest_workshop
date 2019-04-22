@@ -25,8 +25,6 @@ Quest has high-memory [Analytics Nodes](http://www.it.northwestern.edu/research/
 
 [Training and Workshops](http://www.it.northwestern.edu/research/campus-events/index.html) available through Research Computing
 
-Learn about [DataCamp](http://www.it.northwestern.edu/research/campus-events/data-camp.html), providing on-line classes in R, Python and Data Science
-
 Information on [Research Computing](http://www.it.northwestern.edu/research/) and how we can help with your computational research needs  
   
   
